@@ -1,0 +1,30 @@
+.result-section {
+	background-color:#eee;
+}
+.section1-header {
+	height: 58px;
+	width: 100%;
+	background-color: black;
+	padding-top: 0px;
+	color:white;
+	padding-bottom:20px;
+}
+
+.heading {
+	padding-left: 20px
+}
+
+.top {
+	padding-top: 20px;
+}
+
+body {
+	padding-top: 0px;
+}
+
+.image-icon{
+	width: 68px;
+    height: 57px;
+    float: left;
+    padding-left: 19px;
+}
